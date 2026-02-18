@@ -1,5 +1,16 @@
 # 💫 About Me:
-Machine Learning and Deep Learning projects, as well as research-driven work in Artificial Intelligence.<br>Exploring emerging technologies and staying ahead of the curve in rapidly evolving AI and software ecosystems.<br>Agentic AI, Generative AI, and System Design.<br>Turning ideas into execution and getting meaningful things done efficiently.<br>Some hospitals use AI systems to analyze medical records and vital signs; these models can predict one-year mortality risk with close to 90% accuracy.
+🔭 I’m currently working on:
+Admeme — an end-to-end agentic AI system that automates meme-based advertising and predicts potential virality in real time.
+🤝 I’m looking to collaborate on:
+Machine Learning and Deep Learning projects, as well as research-driven work in Artificial Intelligence.
+🧠 I’m looking for help with:
+Exploring emerging technologies and staying ahead of the curve in rapidly evolving AI and software ecosystems.
+📚 I’m currently learning:
+Agentic AI, Generative AI, and System Design.
+💬 Ask me about:
+Turning ideas into execution and getting meaningful things done efficiently.
+⚡ Fun fact:
+Some hospitals use AI systems to analyze medical records and vital signs; these models can predict one-year mortality risk with close to 90% accuracy.
 
 
 ## 🌐 Socials:
